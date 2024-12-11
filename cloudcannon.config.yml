@@ -1,0 +1,16 @@
+collections_config:
+  pages:
+    path: ''
+    name: Pages
+    icon: wysiwyg
+  public_src_assets_json:
+    path: public/src/assets/json
+    name: Public Src Assets Json
+    icon: blinds_closed
+paths:
+  static: ''
+  uploads: uploads
+timezone: America/Chicago
+markdown:
+  engine: commonmark
+  options: {}
